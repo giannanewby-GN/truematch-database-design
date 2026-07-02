@@ -1,2 +1,13 @@
-# truematch-database-design
-Designed and implemented a normalized relational database for a hypothetical dating platform. Created conceptual, logical, and physical ERDs, developed SQL schema, and wrote analytical SQL queries to answer business questions related to matchmaking, messaging, subscriptions, safety, and user engagement.
+# TrueMatch Database Design
+
+This project demonstrates the design and implementation of a relational database for a hypothetical dating platform called TrueMatch.
+
+The objective was to create a scalable database capable of supporting matchmaking, messaging, subscriptions, user safety, and event participation while enabling meaningful business reporting through SQL.
+
+This project includes:
+- Conceptual ERD
+- Logical ERD
+- Physical ERD
+- SQL database schema
+- Sample data
+- Business intelligence SQL queries
